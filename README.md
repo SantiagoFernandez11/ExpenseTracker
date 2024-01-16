@@ -5,8 +5,8 @@ This project also helped me further practice bash and using git commands in part
 The code is simple, it utilizes pandas and gspread libraries to upload data frames to
 multiple worksheets on a Google sheet project.
 
-The first worksheet has an all-time transactions on one data frame and a second data frame 
-the "Rundown data frame", that's printed on the right of it with a simple rundown of those 
+The first worksheet has all-time transactions on one data frame and the second data frame 
+is the "Rundown data frame", it's printed on the right side and has a simple rundown of the 
 transactions: amount in, amount out, cash flow. The rundown data frame calculations are all
 done in the Python code files named "AllTime.py", "ThreeMonths.py", and "LastMonth.py" respectively.
 
