@@ -29,6 +29,6 @@ made in step 1
 3) Download your bank statements directly from your bank account as a CSV file
    - when creating the data frames in the code, make sure to copy the correct path to your CSV files
    - use_cols = ["Date", "Name", "Memo","Amount"], these are the columns we will be selecting to use from the CSV
-   - file; however, if your CSV file uses different names, make sure to change that (e.g. instead of "Memo" it has "Type")
-   - 
+     file; however, if your CSV file uses different names, make sure to change that (e.g. instead of "Memo" it has "Type")
+     
      
