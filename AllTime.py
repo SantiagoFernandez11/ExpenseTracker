@@ -61,6 +61,3 @@ def allTimeRundownDataFrame(gc, allTimeDF):
 
 
 
-"""107086517933172827429"""
-"""budgetservacc@expensetracker-410304.iam.gserviceaccount.com"""
-
